@@ -1,11 +1,11 @@
 # Kindergardens
 ### Project Overview:
 
-**Title:** Mapping Kindergartens in Salzburg
-**Tool:** Leaflet API
-**Study Area:** Salzburg, Austria
-**Link to Web Map:** https://anoshgayratovna.github.io/Kindergardens/
-**Author:** Dilshoda Norboeva
+-**Title:** Mapping Kindergartens in Salzburg
+-**Tool:** Leaflet API
+-**Study Area:** Salzburg, Austria
+-**Link to Web Map:** https://anoshgayratovna.github.io/Kindergardens/
+-**Author:** Dilshoda Norboeva
 
 This project is an interactive web map that displays kindergardens in Salzburg, Austria. The main goal is to provide a user-friendly tool for finding kindergardens for both parents and guardians, as well as to offer a visual platform for analyzing the retail landscape of the city.
 
