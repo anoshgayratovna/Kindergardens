@@ -1,11 +1,11 @@
 # Kindergardens
 ### Project Overview:
 
--**Title:** Mapping Kindergartens in Salzburg
--**Tool:** Leaflet API
--**Study Area:** Salzburg, Austria
--**Link to Web Map:** https://anoshgayratovna.github.io/Kindergardens/
--**Author:** Dilshoda Norboeva
+- **Title:** Mapping Kindergartens in Salzburg
+- **Tool:** Leaflet API
+- **Study Area:** Salzburg, Austria
+- **Link to Web Map:** https://anoshgayratovna.github.io/Kindergardens/
+- **Author:** Dilshoda Norboeva
 
 This project is an interactive web map that displays kindergardens in Salzburg, Austria. The main goal is to provide a user-friendly tool for finding kindergardens for both parents and guardians, as well as to offer a visual platform for analyzing the retail landscape of the city.
 
@@ -33,13 +33,13 @@ This project is an interactive web map that displays kindergardens in Salzburg, 
 - **Data Collection:** Overpass API is used to fetch up-to-date information on kindergardens in Salzburg.
 - **Data Processing:** The data is cleaned and structured for mapping (extracting coordinates, names, opening hours, type (public/private), optional metadata (address, contact)).
 - **Visualization:** 
-1.ArcGIS Pro: Used to convert data to GeoJSON file
-2.Leaflet API: Used to build the interactive map
-3.Map tiles: OpenStreetMap via Leaflet tile providers
-4.JavaScript: Handled map events, marker logic, pop-ups
-5.Visual Studio Code: Change files, overview and edit
-6.GitHub Pages: Hosted the project for public access
-7.CSS: Styled map container and interface
+- 1.ArcGIS Pro: Used to convert data to GeoJSON file
+- 2.Leaflet API: Used to build the interactive map
+- 3.Map tiles: OpenStreetMap via Leaflet tile providers
+- 4.JavaScript: Handled map events, marker logic, pop-ups
+- 5.Visual Studio Code: Change files, overview and edit
+- 6.GitHub Pages: Hosted the project for public access
+- 7.CSS: Styled map container and interface
 - **User Interface:** Users can click on kindergardens to view details such as name, opening hours, type and other information.
 
 ---
