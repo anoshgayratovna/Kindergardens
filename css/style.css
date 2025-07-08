@@ -1,0 +1,69 @@
+h1{
+    position: fixed;
+    color: brown;
+    background-color: rgba(252, 191, 25, 0.7);
+    margin-left: 27%;
+    margin-top: 0%;
+    z-index: 2;
+}
+
+body{
+	width: 100%;
+	height: 100%;
+	margin: 5px;
+	font-family: "Helvetica Neue", Arial, Helveticam sans-serif;
+}
+
+#map {
+	height:98%;
+	width:98vw;
+	left:1%;
+	overflow:hidden;
+	position:fixed;
+	border:1px #444 solid;
+}
+
+.info.legend {
+    padding: 8px 12px;
+    background: white;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+ .leaflet-control-nearest {
+    background: white;
+    padding: 6px 10px;
+    border-radius: 5px;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.65);
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+}
+   font-size: 14px;
+    line-height: 24px;
+}
+
+.info.legend h4 {
+    margin: 0 0 5px;
+    color: #333;
+}
+
+.leaflet-control a {
+    font-size: 20px;
+    text-align: center;
+    line-height: 26px;
+    width: 28px;
+    height: 28px;
+}
+
+.leaflet-control-locate,
+.leaflet-control-nearest {
+    background: rgba(255, 255, 255, 0.85); /* shaffof oq fon */
+    padding: 8px 12px;
+    border-radius: 8px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4);
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 5px;
+    white-space: nowrap;
+    user-select: none;
+}
